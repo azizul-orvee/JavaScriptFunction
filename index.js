@@ -21,4 +21,5 @@ const countTinyPairs = (a, b, k) => {
 const finalOutput = countTinyPairs(a, b, k);
 console.log(finalOutput);
 
+const kisuna = "etao kisuna";
 const change = "this is just a mock change";
