@@ -19,4 +19,6 @@ const countTinyPairs = (a, b, k) => {
 };
 
 const finalOutput = countTinyPairs(a, b, k);
-console.log(finalOutput)
+console.log(finalOutput);
+
+const change = "this is just a mock change";
